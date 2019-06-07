@@ -2,10 +2,10 @@
 /*
     Plugin Name: Lightning Publisher
     Version:     0.1.8
-    Plugin URI:  https://github.com/ElementsProject/wordpress-lightning-publisher
+    Plugin URI:  https://github.com/Groestlcoin/wordpress-lightning-publisher
     Description: Lightning Publisher for WordPress
-    Author:      Blockstream
-    Author URI:  https://blockstream.com
+    Author:      Groestlcoin Devs
+    Author URI:  https://groestlcoin.org
 */
 
 if (!defined('ABSPATH')) exit;
